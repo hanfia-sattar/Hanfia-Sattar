@@ -17,13 +17,13 @@ I solve business problems using data insights. My path to analytics started in s
 
 ## 🧠 Language Expertise
 
-### Programming & Query Languages
+### Programming Languages & APIs
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Proficient-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-Proficient-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-Proficient-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel_Formulas_%26_DAX-Advanced-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+   <img src="https://img.shields.io/badge/RestFul API -Intermediate?style=for-the-badge&logo=APIs&logoColor=white" />
 </p>
 
 ### Databases
@@ -35,15 +35,14 @@ I solve business problems using data insights. My path to analytics started in s
 
 ### Data & ML Libraries
 <p align="left">
-  <img src="https://img.shields.io/badge/Pandas-Advanced-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-Advanced-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-Proficient-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-Proficient-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+ <img src="https://img.shields.io/badge/Matplotlib & Seaborn-Proficient-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--learn-Proficient-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-Intermediate-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-Intermediate-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-Proficient-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+    
 </p>
 
-### BI & Visualization
+### BI & Visualization Tool
 <p align="left">
   <img src="https://img.shields.io/badge/Power_BI-Advanced-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Excel_Dashboards-Advanced-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
@@ -54,9 +53,9 @@ I solve business problems using data insights. My path to analytics started in s
 <p align="left">
   <img src="https://img.shields.io/badge/Git-Proficient-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-Proficient-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-Intermediate-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-Intermediate-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-Intermediate-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-Proficient-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-Practitioner-000000?style=for-the-badge&logo=flask&logoColor=white" />
+     <img src="https://img.shields.io/badge/WordPress-Intermediate-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-Advanced-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Colab-Proficient-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </p>
