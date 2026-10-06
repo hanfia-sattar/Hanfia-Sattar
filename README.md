@@ -1,4 +1,4 @@
-Hi, I'm Hanfia Mujahid 👋
+#Hi, I'm Hanfia Mujahid 👋
 Data Analyst | 6+ yrs Software Engineering | SQL Troubleshooter • Python • Power BI • Excel
 I solve business problems using data insights. My path to analytics started in software engineering: for 6+ years I consulted customers on software implementation, gathered requirements, customized systems, integrated C# apps with ERP solutions using React, and fixed complex SQL database issues. That experience taught me how data really behaves in production—and why clean, reliable reporting matters. Today I use Python, SQL, Excel, and Power BI to turn operational data into dashboards, forecasts, and recommendations that decision-makers can act on.
 
