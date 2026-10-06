@@ -1,24 +1,85 @@
-<h1 align="center">Hi 👋, I'm Hanfia</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi, I'm Hanfia Mujahid 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hanfia-sattar&label=Profile%20views&color=0e75b6&style=flat" alt="hanfia-sattar" /> </p>
+### Junior Data Analyst | Python • SQL • Power BI • Excel
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanfia-sattar" alt="hanfia-sattar" /></a> </p>
+I transform raw data into actionable business insights. With 6+ years of software engineering experience and a Postgraduate Diploma in Data Science & AI, I bring a unique edge to data analytics—deep SQL expertise, production database experience, and end-to-end project delivery.
 
-- 🌱 I’m currently learning **Generative AI , Agentic AI**
+📍 Ajman, UAE | 🌐 Open to Remote Opportunities Worldwide
 
-- 💬 Ask me about **Excel, Power Bi, SQL , Python**
+---
 
-- 📫 How to reach me **hanfiasattar02@gmail.com**
+## 🔧 Technical Toolkit
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hanfia-mujahid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hanfia-mujahid/" height="30" width="40" /></a>
-</p>
+**Languages & Analysis:** Python (Pandas, NumPy, Scikit-learn) • SQL (MySQL, SQLite, MSSQL) • Excel (Advanced)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+**BI & Visualization:** Power BI (DAX, KPI Dashboards, Live DB Connections) • Excel Dashboards • Streamlit
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanfia-sattar&show_icons=true&locale=en&layout=compact" alt="hanfia-sattar" /></p>
+**ML & Analytics:** EDA • Feature Engineering • Time-Series Forecasting • Sentiment Analysis • Statistical Analysis
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanfia-sattar&show_icons=true&locale=en" alt="hanfia-sattar" /></p>
+**Tools:** Git • GitHub • Jupyter • Google Colab • REST/SOAP APIs • Agile/SDLC
+
+---
+
+## 📊 Featured Projects
+
+### 🔹 Sales Forecasting – ML & Time-Series Analysis
+*Python • Scikit-learn • Pandas • Feature Engineering*
+
+Built predictive models for Rossmann store sales across 1,000+ locations. Conducted full EDA, engineered promotion/holiday/seasonality features, and compared gradient boosting vs. ARIMA-family models.
+
+**Impact:** Delivered store-level daily forecasts with quantified revenue insights (PGD Thesis – distinction-level)
+
+---
+
+### 🔹 Customer Churn Analysis – Banking Sector
+*Excel • Data Cleaning • KPI Development • Dashboard*
+
+Analyzed 10,000+ customer records to identify churn-risk segments. Performed end-to-end cleaning, engineered churn KPIs, and built interactive dashboards segmenting by age, balance, and product usage.
+
+**Impact:** Surfaced top churn-risk segments with actionable retention recommendations
+
+---
+
+### 🔹 Amazon Sales Performance Dashboard
+*Power BI • DAX • KPI Cards • Trend Analysis*
+
+Transformed raw Amazon clothing sales data into an executive dashboard. Built KPI cards, trend charts, and category breakdown visuals using DAX measures.
+
+**Impact:** Enabled real-time revenue monitoring across product categories
+
+---
+
+### 🔹 FiberNet Pakistan – Promo Revenue Analysis
+*Excel • Pricing Analysis • Real Company Data*
+
+Investigated why promotional packages generated less revenue despite higher volume. Built Promo Tracker and isolated excessive discount depth as root cause.
+
+**Impact:** Delivered pricing restructure recommendation directly informing client strategy
+
+---
+
+### 🔹 Reddit Sentiment Analysis
+*Python • NLTK • Scikit-learn • TF-IDF*
+
+Built end-to-end NLP pipeline classifying Reddit comments as positive, negative, or neutral. Applied TF-IDF and word embeddings with full evaluation metrics.
+
+**Impact:** Delivered functional sentiment classifier with complete research documentation
+
+---
+
+## 🏆 Recognition
+
+- 🥇 **International Technical Recognition** – Merit-selected by HQSP Canada for Advanced Database Training
+- 🏅 **Best Final Year Project Award** – Bahria University
+- 🥉 **3rd Place** – SPARC'13 Web Development Competition
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hanfia-mujahid/)
+[![Email](https://img.shields.io/badge/Email-dev.hanfia@gmail.com-red?style=flat&logo=gmail)](mailto:dev.hanfia@gmail.com)
+
+---
+
+⭐ *Explore my repositories below to see how I approach real-world data problems.*
