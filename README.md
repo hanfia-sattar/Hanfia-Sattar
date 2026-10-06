@@ -37,9 +37,9 @@ I solve business problems using data insights. My path to analytics started in s
 <p align="left">
   <img src="https://img.shields.io/badge/Pandas-Proficient-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-Proficient-013243?style=for-the-badge&logo=numpy&logoColor=white" />
- <img src="https://img.shields.io/badge/Matplotlib & Seaborn-Proficient-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+ <img src="https://img.shields.io/badge/Matplotlib & Seaborn-Proficient-013243?style=for-the-badge&logo= Seaborn&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--learn-Proficient-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-    
+    <img src="https://img.shields.io/badge/ETL & EDA-learn-Proficient-F7931E?style=for-the-badge&logo=ETL&logoColor=white" /> 
 </p>
 
 ### BI & Visualization Tool
