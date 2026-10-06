@@ -4,7 +4,7 @@
 
 I transform raw data into actionable business insights. With 6+ years of software engineering experience and a Postgraduate Diploma in Data Science & AI, I bring a unique edge to data analytics—deep SQL expertise, production database experience, and end-to-end project delivery.
 
-📍 Ajman, UAE | 🌐 Open to Remote Opportunities Worldwide
+📍 Dubai, UAE | 🌐 Open to Remote Opportunities Worldwide
 
 ---
 
